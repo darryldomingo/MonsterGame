@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# gamedev
+#
+
+projectname: gamedev
+vendorid: com.darryldomingo.game
+mainmodule: com.darryldomingo.game.gamedev
